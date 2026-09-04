@@ -1,4 +1,6 @@
 Student Name : Aazad Kumar Mishra
 Reg. No : 12418851
 Course and Semester : BTech CSE, 5th Semester
-Current class is DevOps and I am very eager to learn this and later apply the knowledge to real world projects.This line was added directly on master branch
+Current class is DevOps and I am very eager to learn this and later apply the knowledge to real world projects.
+This line was added directly on master branch
+This line was added on conflict-demo branch
